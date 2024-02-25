@@ -22,7 +22,7 @@ Vamos supor que atuamos em uma empresa e nossos cientistas de dados precisam ter
 
 Precisamos ter um histórico de quando os arquivos foram atualizados, para que possamos validar o passado. Também precisaremos enviar as informações para um banco de dados Postgres, para que elas possam ser visualizadas em uma ferramenta de Bl, que, no nosso caso, será o Metabase.
 
-<img src="https://i.imgur.com/BT1zBEa.jpeg">
+<img src="https://i.imgur.com/B0ceA7i.png">
 
 ### 1. Airflow: Ingestão
 
